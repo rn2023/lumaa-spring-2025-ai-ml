@@ -10,7 +10,7 @@ Build a **content-based recommendation system** that, given a **short text descr
 
 ### Dataset:
 
-The dataset used in this implementation is from Kaggle called IMDB Movies Dataset. Here is the link to the original data source: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows. The CSV file for this is loaded into the Github repository, so I can be downloaded from there. Once downloaded locally, it can be run in the Jupyter Notebook given that it is in the same folder. This data contains the top rated movies on IMDB and it is 1000 rows long; however, the code randomyl selects 500 to stay within the guidelines of the project.
+The dataset used in this implementation is from Kaggle called IMDB Movies Dataset. Here is the link to the original data source: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows. The CSV file for this is loaded into the Github repository, so I can be downloaded from there. Once downloaded locally, it can be run in the Jupyter Notebook given that it is in the same folder. This data contains the top rated movies on IMDB and it is 1000 rows long; however, the code randomly selects 500 to stay within the guidelines of the project.
 
 ### Setup:
 
